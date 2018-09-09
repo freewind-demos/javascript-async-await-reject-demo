@@ -1,5 +1,5 @@
-JavaScript ES7 "async/await" Demo
-=================================
+JavaScript "async/await" Reject/Throw/Catch Demo
+================================================
 
 使用`async/await`以后，居然还可以用`throw`，还可以`catch`。
 我原来还以为用不了了，看来代码转换做得很彻底。
