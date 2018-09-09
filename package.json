@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "demo": "node hello-async-await.js"
+    "demo": "node demo.js"
   }
 }
